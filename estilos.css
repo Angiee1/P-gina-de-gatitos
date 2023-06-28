@@ -1,0 +1,33 @@
+body{
+    background-color:#ff8d3b;
+    color:#fffaf2;
+    font-family:'Tajawal', sans-serif;
+}
+
+h1{
+    text-align:center;
+    font-size:40px;
+    color:#28282e;
+}
+
+h3{
+    color:#321906;
+    font-size:25px;
+}
+
+p, li, label {
+    font-size:15px;
+}
+
+img {
+    width:280px;
+    height:280px;
+    border-style:solid;
+    border-color:#fffaf3;
+    margin-left:20px;
+    /*Se puede usar padding*/
+}
+
+a, small{
+    color:#28282e;
+}
